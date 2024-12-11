@@ -1,0 +1,1251 @@
+D:\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+D:\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+D:\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+D:\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+D:\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+D:\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+D:\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+D:\luan\duan\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+D:\luan\duan\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+D:\nn\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.sourcelink.json
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+D:\nn\HTNest\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.sourcelink.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Management.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\Firebase.Storage.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest\bin\Debug\net8.0\htnest-84ecf-firebase-adminsdk-y05ia-7636ced338.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Firebase.Storage.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Management.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.sourcelink.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\appsettings.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.exe
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.deps.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.runtimeconfig.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Firebase.Storage.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Apis.Storage.v1.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Google.Cloud.Storage.V1.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Humanizer.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Management.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.AssemblyReference.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfoInputs.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.AssemblyInfo.cs
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.sourcelink.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.HTNest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.build.HTNest.props
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HTNest.props
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HTNest.props
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\scopedcss\bundle\HTNest.styles.css
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.csproj.Up2Date
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\refint\HTNest.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\HTNest.genruntimeconfig.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest\obj\Debug\net8.0\ref\HTNest.dll

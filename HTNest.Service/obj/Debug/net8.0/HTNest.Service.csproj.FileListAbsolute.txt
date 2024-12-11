@@ -1,0 +1,124 @@
+D:\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+D:\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+D:\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+D:\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+D:\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+D:\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+D:\luan\duan\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+D:\luan\duan\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+D:\luan\duan\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+D:\luan\duan\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+D:\luan\duan\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+D:\luan\duan\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+D:\nn\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+D:\nn\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+D:\nn\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+D:\nn\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+D:\nn\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.sourcelink.json
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+D:\nn\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.sourcelink.json
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\HTNest_BE\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.sourcelink.json
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+C:\Users\luann\OneDrive\Máy tính\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.deps.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\bin\Debug\net8.0\HTNest.Data.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.AssemblyReference.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfoInputs.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.AssemblyInfo.cs
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.csproj.CoreCompileInputs.cache
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.sourcelink.json
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.S.FE518C7D.Up2Date
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\refint\HTNest.Service.dll
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\HTNest.Service.pdb
+C:\Users\sasuk\Downloads\New folder\HTNest\HTNest\HTNest.Service\obj\Debug\net8.0\ref\HTNest.Service.dll

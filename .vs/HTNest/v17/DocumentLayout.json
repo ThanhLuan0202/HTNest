@@ -1,0 +1,946 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\product\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\product\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\product\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\product\\updateproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\stylecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\stylecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\repository\\authenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\repository\\authenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\services\\authenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\services\\authenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\interfaces\\iauthenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\interfaces\\iauthenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\interfaces\\iauthenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\interfaces\\iauthenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\user\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\user\\updateusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\user\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\user\\createusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest\\htnest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10709554-B7C6-455B-B4D5-7046967DCC9C}|HTNest\\HTNest.csproj|solutionrelative:htnest\\htnest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\luan\\jsonHtnestfirebase\\htnest-84ecf-firebase-adminsdk-y05ia-7636ced338.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\product\\imagefilevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\product\\imagefilevalidationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\login\\registerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\login\\registerloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\model\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\model\\login\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5F385-7F27-4382-AF33-8CC2D04C839A}|HTNest.Service\\HTNest.Service.csproj|solutionrelative:htnest.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\migrations\\20241123084100_kiojjkoko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\migrations\\20241123084100_kiojjkoko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\migrations\\20241206013934_kisaskkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\migrations\\20241206013934_kisaskkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|c:\\users\\sasuk\\downloads\\new folder\\htnest\\htnest\\htnest.data\\migrations\\20241206013901_kokokoklll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96322310-403D-4D1E-B524-804B49B27772}|HTNest.Data\\HTNest.Data.csproj|solutionrelative:htnest.data\\migrations\\20241206013901_kokokoklll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwHAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:03:25.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\CartController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwHUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:40:16.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Interfaces\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:58:12.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "HTNest.Service\\Interfaces\\ICartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:36:32.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "HTNest.Data\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:59:39.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\CartService.cs",
+              "RelativeToolTip": "HTNest.Service\\Services\\CartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:36:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "HTNest.Data\\DependencyInjection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:33:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\CreateProductModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Product\\CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\CreateProductModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Product\\CreateProductModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:10:01.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Program.cs",
+              "RelativeDocumentMoniker": "HTNest\\Program.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Program.cs",
+              "RelativeToolTip": "HTNest\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:20:13.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:53:17.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:26:07.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:06:00.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:51:32.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\appsettings.json",
+              "RelativeDocumentMoniker": "HTNest\\appsettings.json",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\appsettings.json",
+              "RelativeToolTip": "HTNest\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T14:17:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "HTNest\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "HTNest\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T03:24:09.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HTNest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HTNest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T03:24:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HTNest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\WeatherForecast.cs",
+              "RelativeToolTip": "HTNest\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:50:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241206013934_kisaskkk.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241206013934_kisaskkk.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Migrations\\20241206013934_kisaskkk.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241206013934_kisaskkk.cs",
+              "RelativeToolTip": "HTNest.Data\\Migrations\\20241206013934_kisaskkk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:39:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241206013901_kokokoklll.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241206013901_kokokoklll.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Migrations\\20241206013901_kokokoklll.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241206013901_kokokoklll.cs",
+              "RelativeToolTip": "HTNest.Data\\Migrations\\20241206013901_kokokoklll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:39:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "HTNest.Service\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:03:22.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StyleController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\StyleController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\StyleController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\StyleController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\StyleController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:24:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IAuthenRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Interfaces\\IAuthenRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IAuthenRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Interfaces\\IAuthenRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:36:17.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\AuthenRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Repository\\AuthenRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\AuthenRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Repository\\AuthenRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:00:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\User.cs",
+              "RelativeToolTip": "HTNest.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:04:30.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAzwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:05:41.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\UpdateProductModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Product\\UpdateProductModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\UpdateProductModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Product\\UpdateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:10:04.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HTNest.http",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\HTNest.http",
+              "RelativeDocumentMoniker": "HTNest\\HTNest.http",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\HTNest.http",
+              "RelativeToolTip": "HTNest\\HTNest.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-01T04:19:09.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenController.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\AuthenController.cs",
+              "RelativeDocumentMoniker": "HTNest\\Controllers\\AuthenController.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest\\Controllers\\AuthenController.cs",
+              "RelativeToolTip": "HTNest\\Controllers\\AuthenController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwF4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:22:33.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthenService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\AuthenService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Services\\AuthenService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\AuthenService.cs",
+              "RelativeToolTip": "HTNest.Service\\Services\\AuthenService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:18:51.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAuthenService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IAuthenService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Interfaces\\IAuthenService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IAuthenService.cs",
+              "RelativeToolTip": "HTNest.Service\\Interfaces\\IAuthenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:18:12.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "HTNest.Data\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:04:25.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\Product.cs",
+              "RelativeToolTip": "HTNest.Data\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:00:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "HTNest.Data\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:08:17.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:03:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "HTNest.Service\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:04:36.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "HTNest.Data\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:23:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\User\\UpdateUserModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\User\\UpdateUserModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\User\\UpdateUserModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\User\\UpdateUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:02:27.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\User\\CreateUserModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\User\\CreateUserModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\User\\CreateUserModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\User\\CreateUserModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:04:35.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:02:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "HTNest.Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:03:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "HTNest.Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:38:38.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "htnest-84ecf-firebase-adminsdk-y05ia-7636ced338.json",
+              "DocumentMoniker": "D:\\luan\\jsonHtnestfirebase\\htnest-84ecf-firebase-adminsdk-y05ia-7636ced338.json",
+              "ToolTip": "D:\\luan\\jsonHtnestfirebase\\htnest-84ecf-firebase-adminsdk-y05ia-7636ced338.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T19:40:00.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:03:55.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ImageFileValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\ImageFileValidationAttribute.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Product\\ImageFileValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Product\\ImageFileValidationAttribute.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Product\\ImageFileValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:44:48.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "HTNest.Service\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:04:27.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\DependencyInjection.cs",
+              "RelativeToolTip": "HTNest.Service\\DependencyInjection.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:33:53.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Cart\\CartItem.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Cart\\CartItem.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Cart\\CartItem.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Cart\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:06:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Login\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Login\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Login\\LoginModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Login\\LoginModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:05:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Login\\RegisterLoginModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Model\\Login\\RegisterLoginModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Model\\Login\\RegisterLoginModel.cs",
+              "RelativeToolTip": "HTNest.Data\\Model\\Login\\RegisterLoginModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:39:22.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "HTNest.Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:36:38.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\IRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:39:55.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "HTNest.Data\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:54:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "HTNest.Data\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:09:28.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Entities\\Role.cs",
+              "RelativeToolTip": "HTNest.Data\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:17:34.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:14:08.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "HTNest.Data\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:39:15.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241123084100_kiojjkoko.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241123084100_kiojjkoko.cs",
+              "RelativeDocumentMoniker": "HTNest.Data\\Migrations\\20241123084100_kiojjkoko.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Data\\Migrations\\20241123084100_kiojjkoko.cs",
+              "RelativeToolTip": "HTNest.Data\\Migrations\\20241123084100_kiojjkoko.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:41:00.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "HTNest.Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\sasuk\\Downloads\\New folder\\HTNest\\HTNest\\HTNest.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "HTNest.Service\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:20:12.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

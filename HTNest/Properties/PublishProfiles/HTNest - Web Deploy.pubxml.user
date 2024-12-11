@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhGdxl5pxkEqScSbfOTx+7wAAAAACAAAAAAAQZgAAAAEAACAAAACjZii9ohy/62sMssn8vKICBm46goJEwtmE+hrATAmujgAAAAAOgAAAAAIAACAAAAD9R1gQGju9UlBxnAw8qWu56JzbWtSh1SNxjCFXI5TyQYAAAAC3ZnfifY32S6Xzgcpe/2/tK8sUHTvklIB+7jis8bpZKjIotitUWAfWWg+pfF2rlLHxBslwHP5wIfoxOejArOCGFioeRnPWCue/HFsJ2hjAtmRS6DsETibOaGIdX0MSDj3kFdb7lMiCMFXMNNPltj2AWbtFc1yhM60oL6qWnXUtvkAAAABScrwxNOcMl2jf0+VSImZq6Q3t6THuCnJ6x1HK2+x01rSonXDAlil/SWPXZI0tTWSqDmB34TNJBgb2BWA+yKDf</EncryptedPassword>
+    <History>True|2024-12-11T09:38:10.4036161Z||;True|2024-12-11T14:49:14.4278098+07:00||;True|2024-12-11T14:48:13.3025958+07:00||;True|2024-12-06T10:47:52.6680407+07:00||;True|2024-12-06T10:45:00.3790902+07:00||;True|2024-12-06T10:40:49.5434291+07:00||;True|2024-12-06T10:39:13.4163804+07:00||;True|2024-12-06T10:38:33.4168979+07:00||;True|2024-12-06T10:36:49.6529634+07:00||;True|2024-12-06T10:36:17.3396423+07:00||;True|2024-12-06T10:35:21.4143103+07:00||;True|2024-12-06T10:33:42.7914271+07:00||;True|2024-12-06T10:32:26.1068540+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="HTNest.Data.Data.HTNestDbContext">
+      <Value>Data Source=htnest.database.windows.net,1433%3bInitial Catalog=luanne%3bUser ID=htnest%3bPassword=K0cogilamkodc</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
